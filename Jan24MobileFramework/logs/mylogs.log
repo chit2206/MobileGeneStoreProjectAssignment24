@@ -1,0 +1,238 @@
+20241228 00:28:23 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:28:23 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:28:23 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:28:23 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:28:25 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:28:32 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:28:32 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:28:36 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:28:37 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:36:25 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:36:26 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:36:26 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:36:26 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:36:28 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:36:35 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:36:35 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:36:39 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:36:40 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:37:32 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:37:32 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:37:32 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:37:32 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:37:34 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:37:42 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:37:42 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:37:46 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:37:46 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:38:05 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:38:05 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:38:05 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:38:05 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:38:07 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:38:14 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:38:14 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:38:18 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:38:19 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:39:24 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:39:24 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:39:24 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:39:30 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:39:30 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:39:30 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:39:30 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:39:31 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:39:39 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:39:39 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:39:44 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:39:44 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:40:40 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:40:40 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:40:40 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:40:40 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:40:41 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:40:49 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:40:49 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:40:54 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:40:54 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 00:55:28 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 00:55:29 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 00:55:29 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 00:55:29 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 00:55:30 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 00:55:38 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 00:55:38 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 00:55:42 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 00:55:42 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:00:03 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 01:00:03 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 01:00:03 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 01:00:03 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 01:00:05 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 01:00:12 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 01:00:12 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 01:00:17 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 01:00:17 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:01:42 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 01:01:42 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 01:01:42 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 01:01:42 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 01:01:44 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 01:01:52 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 01:01:52 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 01:01:55 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 01:01:56 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:04:52 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 01:04:52 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 01:04:53 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 01:04:53 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 01:04:54 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 01:05:02 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 01:05:02 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 01:05:06 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 01:05:07 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:06:20 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 01:06:20 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 01:06:20 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 01:06:20 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 01:06:22 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 01:06:30 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 01:06:30 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 01:06:34 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 01:06:34 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:08:11 INFO  [main] tests.CartTest CartTest.java31 - after genralStorePage instance
+20241228 01:08:12 INFO  [main] tests.CartTest CartTest.java33 - after ProductsPage instance
+20241228 01:08:12 INFO  [main] tests.CartTest CartTest.java35 - after cartpage instance
+20241228 01:08:12 INFO  [main] tests.CartTest CartTest.java51 - in getCartPageTestCaseC34
+20241228 01:08:13 INFO  [main] tests.CartTest CartTest.java58 - Before scrollToProduct jordenring
+20241228 01:08:21 INFO  [main] tests.CartTest CartTest.java60 - after scrollToProduct jordenring
+20241228 01:08:21 INFO  [main] tests.CartTest CartTest.java61 - Before scrollToProduct PG
+20241228 01:08:25 INFO  [main] tests.CartTest CartTest.java63 - after scrollToProduct PG
+20241228 01:08:25 INFO  [main] tests.CartTest CartTest.java66 - after clickCartBtn
+20241228 01:08:27 INFO  [main] tests.CartTest CartTest.java84 - after verifyCheckboxLabel
+20241228 01:08:30 INFO  [main] tests.CartTest CartTest.java86 - after clicktermsBtn
+20241228 01:08:31 INFO  [main] tests.CartTest CartTest.java88 - after clickpurchasBtn
+20241228 01:10:51 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:10:51 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:10:52 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:10:52 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:10:53 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:11:01 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:11:01 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:11:05 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:11:05 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:19:08 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:19:09 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:19:11 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:19:11 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:19:12 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:21:48 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:21:48 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:21:49 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:21:49 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:21:50 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:21:58 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:21:58 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:22:02 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:22:02 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:22:41 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:22:41 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:22:41 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:22:42 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:22:43 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:22:51 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:22:51 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:22:54 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:22:55 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:25:46 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:25:47 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:25:49 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:25:49 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:25:50 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:29:49 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:29:49 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:29:49 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:29:49 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:29:50 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:29:58 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:29:58 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:30:03 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:30:03 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:33:03 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:33:03 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:33:03 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:33:03 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:33:04 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:33:12 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:33:12 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:33:16 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:33:17 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:38:56 INFO  [main] tests.CartTest CartTest.java32 - after genralStorePage instance
+20241228 01:38:56 INFO  [main] tests.CartTest CartTest.java34 - after ProductsPage instance
+20241228 01:38:56 INFO  [main] tests.CartTest CartTest.java36 - after cartpage instance
+20241228 01:38:56 INFO  [main] tests.CartTest CartTest.java52 - in getCartPageTestCaseC34
+20241228 01:38:58 INFO  [main] tests.CartTest CartTest.java59 - Before scrollToProduct jordenring
+20241228 01:39:06 INFO  [main] tests.CartTest CartTest.java61 - after scrollToProduct jordenring
+20241228 01:39:06 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct PG
+20241228 01:39:10 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct PG
+20241228 01:39:10 INFO  [main] tests.CartTest CartTest.java67 - after clickCartBtn
+20241228 01:45:28 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 01:45:28 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 01:45:28 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 01:45:28 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 01:45:30 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 01:45:38 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 01:45:38 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 01:45:42 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 01:45:42 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 01:47:04 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 01:47:04 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 01:47:04 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 01:47:04 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 01:47:05 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 01:47:13 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 01:47:13 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 01:47:17 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 01:47:18 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 01:47:45 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 01:47:45 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 01:47:46 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 01:47:46 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 01:47:47 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 01:47:55 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 01:47:55 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 01:47:59 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 01:47:59 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 13:08:20 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 13:08:20 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 13:08:21 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 13:08:21 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 13:08:22 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 13:08:30 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 13:08:30 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 13:08:34 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 13:08:34 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 13:08:37 INFO  [main] tests.CartTest CartTest.java95 - after verifyCheckboxLabel
+20241228 13:08:41 INFO  [main] tests.CartTest CartTest.java97 - after clicktermsBtn
+20241228 13:08:41 INFO  [main] tests.CartTest CartTest.java99 - after clickpurchasBtn
+20241228 13:27:11 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 13:27:11 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 13:27:11 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 13:27:11 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 13:27:13 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 13:27:21 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 13:27:21 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 13:27:24 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 13:27:25 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 13:32:58 INFO  [main] tests.CartTest CartTest.java34 - after genralStorePage instance
+20241228 13:32:58 INFO  [main] tests.CartTest CartTest.java36 - after ProductsPage instance
+20241228 13:32:58 INFO  [main] tests.CartTest CartTest.java38 - after cartpage instance
+20241228 13:32:58 INFO  [main] tests.CartTest CartTest.java55 - in getCartPageTestCaseC34
+20241228 13:32:59 INFO  [main] tests.CartTest CartTest.java62 - Before scrollToProduct jordenring
+20241228 13:33:07 INFO  [main] tests.CartTest CartTest.java64 - after scrollToProduct jordenring
+20241228 13:33:07 INFO  [main] tests.CartTest CartTest.java65 - Before scrollToProduct PG
+20241228 13:33:11 INFO  [main] tests.CartTest CartTest.java67 - after scrollToProduct PG
+20241228 13:33:12 INFO  [main] tests.CartTest CartTest.java70 - after clickCartBtn
+20241228 13:33:14 INFO  [main] tests.CartTest CartTest.java96 - after verifyCheckboxLabel
+20241228 13:33:17 INFO  [main] tests.CartTest CartTest.java98 - after clicktermsBtn
+20241228 13:33:18 INFO  [main] tests.CartTest CartTest.java100 - after clickpurchasBtn

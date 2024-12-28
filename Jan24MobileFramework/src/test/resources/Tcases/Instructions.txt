@@ -1,0 +1,8 @@
+
+Test duration is 24-48 hours
+Follow Mobile Framework Architecture. use reporting
+Use proper validation in every testscripts
+
+after completion upload the project to GitHub and click on the link and submit the form
+
+https://docs.google.com/forms/d/1Z5unTQiw_XvcfTKdjWrIeIc1JxAD2JnJp26vsOx2FDk
